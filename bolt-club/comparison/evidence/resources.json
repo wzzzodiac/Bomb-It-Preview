@@ -5,21 +5,21 @@
     "download": 1425744
   },
   "bolt": {
-    "raw": 2620944,
-    "download": 1645350
+    "raw": 2620835,
+    "download": 1645321
   },
   "preScrapyard": {
     "commit": "3f33845338818a32f3691273c0094ef76872b8ae",
     "download": 1421441,
     "source": "Fresh archive measurement, same compression"
   },
-  "deltaVsMain": 219606,
-  "deltaVsPre": 223909,
+  "deltaVsMain": 219577,
+  "deltaVsPre": 223880,
   "files": [
     {
       "file": "index.html",
-      "raw": 8353,
-      "download": 2413
+      "raw": 8244,
+      "download": 2384
     },
     {
       "file": "assets/atlas-CVsJ7qbQ.png",
